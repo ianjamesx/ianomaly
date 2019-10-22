@@ -1,0 +1,8 @@
+duration: continuous.
+protocol_type: continuous.
+service: continuous.
+flag: continuous.
+src_bytes: continuous.
+dst_bytes: continuous.
+land: continuous.
+ATTACK: result.
